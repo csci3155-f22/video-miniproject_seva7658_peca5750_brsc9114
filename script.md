@@ -1,0 +1,17 @@
+The basic plan of our script will be as follows:
+- Introduction to React
+	- When it was created
+	- By whom
+	- evolution of react overtime and widespread usage in fortune 500 companies
+- Why does React exist
+	- Speed, heavily integrated with already prominent javascript, etc
+	- Virtual DOM
+- Programming paradigm of React
+- Classes/Components
+- Functional React
+- Render vs. return
+	- JSX
+- Props
+- State
+- Component inheritance / state inheritance and effects
+- Asynchronous / Setting up React with a full-stack web app
