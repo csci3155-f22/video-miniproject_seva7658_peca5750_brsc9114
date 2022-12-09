@@ -18,16 +18,13 @@ Our project will serve as an introduction to the React.js framework from both a 
 
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+Everything for our project is located and linked in our README file. This includes our final deliverables: our YouTube video, Script, and Google Slides. 
 
 ## Building and Testing Instructions
 
 TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
 
 ## Presentation
-
-TODO: Update the following links and remove this line.
-
 
 - YouTube: https://youtu.be/TODO.
 - Script: [script.md](script.md) or [script.pdf](script.pdf).
