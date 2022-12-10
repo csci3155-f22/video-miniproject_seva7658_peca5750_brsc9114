@@ -22,13 +22,13 @@ Everything for our project is located and linked in our README file. This includ
 
 ## Building and Testing Instructions
 
-We have no builds to link, but in our video we present our code in depth and have a video explaining how it works. 
+TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
 
 ## Presentation
 
-- YouTube: https://www.youtube.com/watch?v=-nNE9foJIyc
-- Script: [PPL Mini Lab Slides - React.pdf]
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- YouTube: https://www.youtube.com/watch?v=-nNE9foJIyc&list=PLFNbBlDoHwn4GpFI7gToujY9ZGhSRrKTd&index=1&ab_channel=SebastianVargas
+- Script: [script.pdf](script.pdf)
+- Slides: [slides.pdf](slides.pdf)
 
 
 ## Lab 6 Deadline Requirements
