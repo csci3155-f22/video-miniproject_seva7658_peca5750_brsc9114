@@ -22,7 +22,7 @@ Everything for our project is located and linked in our README file. This includ
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+We have no builds to link, but in our video we present our code in depth and have a video explaining how it works. 
 
 ## Presentation
 
