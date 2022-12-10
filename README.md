@@ -26,9 +26,8 @@ TODO: Replace with building and testing instructions. Please minimize the number
 
 ## Presentation
 
-- YouTube: https://youtu.be/TODO.
+- YouTube: https://www.youtube.com/watch?v=-nNE9foJIyc
 - Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
 - Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
 
 
